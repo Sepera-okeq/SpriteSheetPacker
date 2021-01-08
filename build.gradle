@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+group 'org.sasha0552'
+version '1.0.0'
+
+jar {
+    manifest {
+        attributes('Main-Class': 'org.sasha0552.imgst.Main')
+    }
+}
