@@ -3,10 +3,11 @@
 Program for stitching .png pictures!
 
 #### Example of work: [archive](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/test.rar)
-#### Download : [last](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/ImgSt.jar)
+#### Download : [last](https://github.com/Sepera-okeq/SpriteSheetPacker/releases)
 #### Instruction on [YouTube](https://youtu.be/mWUtNO3d5pA)
 
 ### How to use?
+0. Depending on the Java version ( 8 or 11), download the file of the desired Java version and change it to imgst.jar
 1. Form a folder with files by the type: namefile_num.png
  where - num - numbers, and namefile - any file name
 2. Upload the .jar file
@@ -32,10 +33,11 @@ ___
 Программа для склейки картинок формата .png!
 
 #### Пример работы: [archive](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/test.rar)
-#### Скачать : [last](https://github.com/Sepera-okeq/SpriteSheetPacker/releases/download/1.0.0/ImgSt.jar)
+#### Скачать : [last](https://github.com/Sepera-okeq/SpriteSheetPacker/releases)
 #### Инструкция на [Ютубе](https://youtu.be/mWUtNO3d5pA)
 
 ### Как пользоваться?
+0. В зависимости от версии Java ( 8 или 11) скачиваете файл нужной версии Java и переменовываете в imgst.jar
 1. Формируете папку с файлами по типу: namefile_число.png
  где - число - числа, а  namefile - любое название файла
 2. Закидываете .jar файл
